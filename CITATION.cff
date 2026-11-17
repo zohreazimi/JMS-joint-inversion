@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "JMS: Joint Minimum Support focusing inversion of gravity and magnetic data"
+authors:
+  - family-names: Azimi
+    given-names: Zohre
+    affiliation: "Department of Mathematics, Faculty of Science, Arak University, Iran"
+  - family-names: Afshar
+    given-names: Ahmad
+    affiliation: "Faculty of Mining Engineering, Amirkabir University of Technology, Iran"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-17
